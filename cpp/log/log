@@ -1,0 +1,5 @@
+
+[2021-01-23 22:14:52]INFO:         log.cpp, line:128, 12335 DUZEJIE TEST 
+[2021-01-23 22:14:53]WARNING:      log.cpp, line:130, 2  and  3 不相等 
+[2021-01-23 22:14:54]CAUTION:      log.cpp, line:131, 3  and  3 不相等 
+[2021-01-23 22:14:55]CHECK FALL:   log.cpp, line:132, 3与4不相等 3与4不相等 3 4 
